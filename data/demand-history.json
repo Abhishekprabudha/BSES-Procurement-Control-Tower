@@ -1,0 +1,6050 @@
+[
+  {
+    "month": "2025-01",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Dwarka",
+    "actualQuantity": 1.83,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 1.66,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 2.16,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 1.58,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 2.05,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 1.87,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Saket",
+    "actualQuantity": 1.57,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Palam",
+    "actualQuantity": 2.02,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Dwarka",
+    "actualQuantity": 0.56,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 0.71,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 0.57,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 0.58,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 0.7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 0.85,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Saket",
+    "actualQuantity": 0.59,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Palam",
+    "actualQuantity": 0.63,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Dwarka",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Najafgarh",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Janakpuri",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Nehru Place",
+    "actualQuantity": 4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Tagore Garden",
+    "actualQuantity": 4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Saket",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Palam",
+    "actualQuantity": 4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Dwarka",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Najafgarh",
+    "actualQuantity": 4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Janakpuri",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Nehru Place",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Tagore Garden",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Saket",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Palam",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Dwarka",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Saket",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Palam",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Dwarka",
+    "actualQuantity": 16.1,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Najafgarh",
+    "actualQuantity": 14.8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Janakpuri",
+    "actualQuantity": 18.9,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Nehru Place",
+    "actualQuantity": 18.1,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 14.3,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Tagore Garden",
+    "actualQuantity": 17.1,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Saket",
+    "actualQuantity": 16.6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-01",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Palam",
+    "actualQuantity": 19.5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Dwarka",
+    "actualQuantity": 2.33,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 1.87,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 2.59,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 1.69,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 2.0,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 2.36,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Saket",
+    "actualQuantity": 1.73,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Palam",
+    "actualQuantity": 2.08,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Dwarka",
+    "actualQuantity": 0.58,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 0.82,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 0.86,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 0.79,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 0.9,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 0.69,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Saket",
+    "actualQuantity": 0.83,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Palam",
+    "actualQuantity": 0.8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Dwarka",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Najafgarh",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Janakpuri",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Nehru Place",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Tagore Garden",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Saket",
+    "actualQuantity": 4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Palam",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Dwarka",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Najafgarh",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Janakpuri",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Nehru Place",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Tagore Garden",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Saket",
+    "actualQuantity": 4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Palam",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Dwarka",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Saket",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Palam",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Dwarka",
+    "actualQuantity": 13.5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Najafgarh",
+    "actualQuantity": 16.7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Janakpuri",
+    "actualQuantity": 17.5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Nehru Place",
+    "actualQuantity": 20.4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 19.8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Tagore Garden",
+    "actualQuantity": 20.2,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Saket",
+    "actualQuantity": 15.2,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-02",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Palam",
+    "actualQuantity": 16.4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Dwarka",
+    "actualQuantity": 2.04,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 2.62,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 2.7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 1.82,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 1.84,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 1.91,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Saket",
+    "actualQuantity": 1.91,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Palam",
+    "actualQuantity": 2.18,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Dwarka",
+    "actualQuantity": 0.84,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 0.71,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 0.6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 0.77,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 0.75,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 0.83,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Saket",
+    "actualQuantity": 0.98,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Palam",
+    "actualQuantity": 0.88,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Dwarka",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Najafgarh",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Janakpuri",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Nehru Place",
+    "actualQuantity": 4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Tagore Garden",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Saket",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Palam",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Dwarka",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Najafgarh",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Janakpuri",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Nehru Place",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Tagore Garden",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Saket",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Palam",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Dwarka",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Saket",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Palam",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Dwarka",
+    "actualQuantity": 19.0,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Najafgarh",
+    "actualQuantity": 14.8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Janakpuri",
+    "actualQuantity": 15.8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Nehru Place",
+    "actualQuantity": 16.6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 16.8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Tagore Garden",
+    "actualQuantity": 14.6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Saket",
+    "actualQuantity": 21.1,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-03",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Palam",
+    "actualQuantity": 22.4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Dwarka",
+    "actualQuantity": 2.27,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 2.29,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 1.83,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 1.85,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 2.13,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 2.04,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Saket",
+    "actualQuantity": 2.69,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Palam",
+    "actualQuantity": 1.92,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Dwarka",
+    "actualQuantity": 0.64,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 1.03,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 0.85,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 0.69,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 0.86,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 0.64,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Saket",
+    "actualQuantity": 0.85,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Palam",
+    "actualQuantity": 1.04,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Dwarka",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Najafgarh",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Janakpuri",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Nehru Place",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Tagore Garden",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Saket",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Palam",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Dwarka",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Najafgarh",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Janakpuri",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Nehru Place",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Tagore Garden",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Saket",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Palam",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Dwarka",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Saket",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Palam",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Dwarka",
+    "actualQuantity": 23.2,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Najafgarh",
+    "actualQuantity": 18.4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Janakpuri",
+    "actualQuantity": 23.0,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Nehru Place",
+    "actualQuantity": 23.5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 23.2,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Tagore Garden",
+    "actualQuantity": 17.6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Saket",
+    "actualQuantity": 16.3,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-04",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Palam",
+    "actualQuantity": 16.3,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Dwarka",
+    "actualQuantity": 2.03,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 2.04,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 2.54,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 2.87,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 2.8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 2.37,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Saket",
+    "actualQuantity": 2.57,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Palam",
+    "actualQuantity": 2.75,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Dwarka",
+    "actualQuantity": 0.69,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 0.94,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 1.05,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 0.99,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 0.98,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 0.86,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Saket",
+    "actualQuantity": 0.73,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Palam",
+    "actualQuantity": 0.99,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Dwarka",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Najafgarh",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Janakpuri",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Nehru Place",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Tagore Garden",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Saket",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Palam",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Dwarka",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Najafgarh",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Janakpuri",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Nehru Place",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Tagore Garden",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Saket",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Palam",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Dwarka",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 9,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Saket",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Palam",
+    "actualQuantity": 9,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Dwarka",
+    "actualQuantity": 18.9,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Najafgarh",
+    "actualQuantity": 23.2,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Janakpuri",
+    "actualQuantity": 22.7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Nehru Place",
+    "actualQuantity": 16.7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 17.1,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Tagore Garden",
+    "actualQuantity": 17.5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Saket",
+    "actualQuantity": 17.0,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-05",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Palam",
+    "actualQuantity": 20.4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Dwarka",
+    "actualQuantity": 2.13,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 2.32,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 1.97,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 2.92,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 2.24,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 2.37,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Saket",
+    "actualQuantity": 2.52,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Palam",
+    "actualQuantity": 2.91,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Dwarka",
+    "actualQuantity": 0.85,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 1.06,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 0.88,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 0.89,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 0.89,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 0.67,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Saket",
+    "actualQuantity": 0.85,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Palam",
+    "actualQuantity": 0.74,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Dwarka",
+    "actualQuantity": 4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Najafgarh",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Janakpuri",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Nehru Place",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Tagore Garden",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Saket",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Palam",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Dwarka",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Najafgarh",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Janakpuri",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Nehru Place",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Tagore Garden",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Saket",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Palam",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Dwarka",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 9,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 9,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Saket",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Palam",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Dwarka",
+    "actualQuantity": 19.3,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Najafgarh",
+    "actualQuantity": 20.1,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Janakpuri",
+    "actualQuantity": 19.6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Nehru Place",
+    "actualQuantity": 24.2,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 21.8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Tagore Garden",
+    "actualQuantity": 23.5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Saket",
+    "actualQuantity": 24.2,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-06",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Palam",
+    "actualQuantity": 17.4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Dwarka",
+    "actualQuantity": 2.46,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 2.92,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 2.8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 1.96,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 1.94,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 2.32,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Saket",
+    "actualQuantity": 1.88,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Palam",
+    "actualQuantity": 2.08,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Dwarka",
+    "actualQuantity": 0.68,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 0.94,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 0.99,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 1.04,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 0.72,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 0.96,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Saket",
+    "actualQuantity": 0.94,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Palam",
+    "actualQuantity": 0.71,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Dwarka",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Najafgarh",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Janakpuri",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Nehru Place",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Tagore Garden",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Saket",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Palam",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Dwarka",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Najafgarh",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Janakpuri",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Nehru Place",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Tagore Garden",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Saket",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Palam",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Dwarka",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Saket",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Palam",
+    "actualQuantity": 9,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Dwarka",
+    "actualQuantity": 22.4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Najafgarh",
+    "actualQuantity": 24.2,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Janakpuri",
+    "actualQuantity": 15.7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Nehru Place",
+    "actualQuantity": 17.3,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 15.1,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Tagore Garden",
+    "actualQuantity": 22.3,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Saket",
+    "actualQuantity": 17.3,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-07",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Palam",
+    "actualQuantity": 15.9,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Dwarka",
+    "actualQuantity": 2.22,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 2.79,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 2.68,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 2.03,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 1.91,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 2.79,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Saket",
+    "actualQuantity": 2.39,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Palam",
+    "actualQuantity": 2.54,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Dwarka",
+    "actualQuantity": 0.67,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 0.65,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 0.92,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 0.81,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 0.66,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 1.02,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Saket",
+    "actualQuantity": 0.9,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Palam",
+    "actualQuantity": 0.97,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Dwarka",
+    "actualQuantity": 4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Najafgarh",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Janakpuri",
+    "actualQuantity": 4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Nehru Place",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Tagore Garden",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Saket",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Palam",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Dwarka",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Najafgarh",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Janakpuri",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Nehru Place",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Tagore Garden",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Saket",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Palam",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Dwarka",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Saket",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Palam",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Dwarka",
+    "actualQuantity": 16.5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Najafgarh",
+    "actualQuantity": 14.3,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Janakpuri",
+    "actualQuantity": 21.1,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Nehru Place",
+    "actualQuantity": 19.4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 16.0,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Tagore Garden",
+    "actualQuantity": 18.7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Saket",
+    "actualQuantity": 23.0,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-08",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Palam",
+    "actualQuantity": 15.2,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Dwarka",
+    "actualQuantity": 2.55,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 2.13,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 2.19,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 2.57,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 2.08,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 2.21,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Saket",
+    "actualQuantity": 2.41,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Palam",
+    "actualQuantity": 2.73,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Dwarka",
+    "actualQuantity": 0.74,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 0.93,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 0.88,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 0.85,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 0.76,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 0.74,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Saket",
+    "actualQuantity": 0.62,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Palam",
+    "actualQuantity": 0.65,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Dwarka",
+    "actualQuantity": 4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Najafgarh",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Janakpuri",
+    "actualQuantity": 4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Nehru Place",
+    "actualQuantity": 4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Tagore Garden",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Saket",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Palam",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Dwarka",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Najafgarh",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Janakpuri",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Nehru Place",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Tagore Garden",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Saket",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Palam",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Dwarka",
+    "actualQuantity": 9,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 9,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Saket",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Palam",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Dwarka",
+    "actualQuantity": 17.8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Najafgarh",
+    "actualQuantity": 18.0,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Janakpuri",
+    "actualQuantity": 15.3,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Nehru Place",
+    "actualQuantity": 18.0,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 13.5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Tagore Garden",
+    "actualQuantity": 15.9,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Saket",
+    "actualQuantity": 14.3,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-09",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Palam",
+    "actualQuantity": 17.1,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Dwarka",
+    "actualQuantity": 1.61,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 1.59,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 1.89,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 1.81,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 2.18,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 2.12,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Saket",
+    "actualQuantity": 2.35,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Palam",
+    "actualQuantity": 2.25,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Dwarka",
+    "actualQuantity": 0.84,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 0.9,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 0.72,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 0.69,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 0.94,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 0.63,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Saket",
+    "actualQuantity": 0.85,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Palam",
+    "actualQuantity": 0.81,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Dwarka",
+    "actualQuantity": 4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Najafgarh",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Janakpuri",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Nehru Place",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Tagore Garden",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Saket",
+    "actualQuantity": 4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Palam",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Dwarka",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Najafgarh",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Janakpuri",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Nehru Place",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Tagore Garden",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Saket",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Palam",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Dwarka",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Saket",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Palam",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Dwarka",
+    "actualQuantity": 18.2,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Najafgarh",
+    "actualQuantity": 18.6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Janakpuri",
+    "actualQuantity": 17.0,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Nehru Place",
+    "actualQuantity": 12.9,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 19.6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Tagore Garden",
+    "actualQuantity": 19.2,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Saket",
+    "actualQuantity": 17.1,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-10",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Palam",
+    "actualQuantity": 17.4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Dwarka",
+    "actualQuantity": 2.17,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 1.57,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 2.25,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 1.76,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 1.58,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 1.77,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Saket",
+    "actualQuantity": 2.24,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Palam",
+    "actualQuantity": 1.71,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Dwarka",
+    "actualQuantity": 0.82,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 0.9,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 0.73,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 0.69,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 0.72,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 0.8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Saket",
+    "actualQuantity": 0.83,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Palam",
+    "actualQuantity": 0.77,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Dwarka",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Najafgarh",
+    "actualQuantity": 4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Janakpuri",
+    "actualQuantity": 4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Nehru Place",
+    "actualQuantity": 4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Tagore Garden",
+    "actualQuantity": 4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Saket",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Palam",
+    "actualQuantity": 3,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Dwarka",
+    "actualQuantity": 4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Najafgarh",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Janakpuri",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Nehru Place",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Tagore Garden",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Saket",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Palam",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Dwarka",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Saket",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Palam",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Dwarka",
+    "actualQuantity": 19.1,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Najafgarh",
+    "actualQuantity": 20.3,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Janakpuri",
+    "actualQuantity": 16.0,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Nehru Place",
+    "actualQuantity": 14.5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 14.1,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Tagore Garden",
+    "actualQuantity": 20.1,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Saket",
+    "actualQuantity": 14.1,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-11",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Palam",
+    "actualQuantity": 17.1,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Dwarka",
+    "actualQuantity": 1.63,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 2.0,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 2.43,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 1.62,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 2.3,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 1.99,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Saket",
+    "actualQuantity": 2.36,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Palam",
+    "actualQuantity": 2.18,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Dwarka",
+    "actualQuantity": 0.62,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 0.86,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 0.72,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 0.55,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 0.54,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 0.72,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Saket",
+    "actualQuantity": 0.7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Palam",
+    "actualQuantity": 0.65,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Dwarka",
+    "actualQuantity": 4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Najafgarh",
+    "actualQuantity": 4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Janakpuri",
+    "actualQuantity": 4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Nehru Place",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 3,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Tagore Garden",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Saket",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Palam",
+    "actualQuantity": 4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Dwarka",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Najafgarh",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Janakpuri",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Nehru Place",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Tagore Garden",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Saket",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Palam",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Dwarka",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Saket",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Palam",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Dwarka",
+    "actualQuantity": 14.2,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Najafgarh",
+    "actualQuantity": 14.3,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Janakpuri",
+    "actualQuantity": 16.3,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Nehru Place",
+    "actualQuantity": 13.7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 15.2,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Tagore Garden",
+    "actualQuantity": 19.9,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Saket",
+    "actualQuantity": 19.3,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2025-12",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Palam",
+    "actualQuantity": 18.7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Dwarka",
+    "actualQuantity": 2.14,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 2.42,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 2.45,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 2.06,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 2.23,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 1.56,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Saket",
+    "actualQuantity": 2.24,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Palam",
+    "actualQuantity": 1.96,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Dwarka",
+    "actualQuantity": 0.82,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 0.78,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 0.65,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 0.57,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 0.89,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 0.59,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Saket",
+    "actualQuantity": 0.72,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Palam",
+    "actualQuantity": 0.67,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Dwarka",
+    "actualQuantity": 4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Najafgarh",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Janakpuri",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Nehru Place",
+    "actualQuantity": 4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Tagore Garden",
+    "actualQuantity": 4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Saket",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Palam",
+    "actualQuantity": 4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Dwarka",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Najafgarh",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Janakpuri",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Nehru Place",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Tagore Garden",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Saket",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Palam",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Dwarka",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Saket",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Palam",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Dwarka",
+    "actualQuantity": 17.0,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Najafgarh",
+    "actualQuantity": 19.6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Janakpuri",
+    "actualQuantity": 18.5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Nehru Place",
+    "actualQuantity": 15.7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 15.7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Tagore Garden",
+    "actualQuantity": 16.6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Saket",
+    "actualQuantity": 15.4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-01",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Palam",
+    "actualQuantity": 15.1,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Dwarka",
+    "actualQuantity": 1.63,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 1.86,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 2.58,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 1.7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 2.09,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 2.23,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Saket",
+    "actualQuantity": 2.47,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Palam",
+    "actualQuantity": 1.79,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Dwarka",
+    "actualQuantity": 0.67,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 0.66,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 0.72,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 0.74,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 0.93,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 0.89,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Saket",
+    "actualQuantity": 0.9,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Palam",
+    "actualQuantity": 0.58,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Dwarka",
+    "actualQuantity": 4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Najafgarh",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Janakpuri",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Nehru Place",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Tagore Garden",
+    "actualQuantity": 4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Saket",
+    "actualQuantity": 4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Palam",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Dwarka",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Najafgarh",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Janakpuri",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Nehru Place",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Tagore Garden",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Saket",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Palam",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Dwarka",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Saket",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Palam",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Dwarka",
+    "actualQuantity": 14.8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Najafgarh",
+    "actualQuantity": 20.7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Janakpuri",
+    "actualQuantity": 18.3,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Nehru Place",
+    "actualQuantity": 15.4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 13.9,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Tagore Garden",
+    "actualQuantity": 15.0,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Saket",
+    "actualQuantity": 18.3,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-02",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Palam",
+    "actualQuantity": 18.8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Dwarka",
+    "actualQuantity": 1.77,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 1.73,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 2.23,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 2.29,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 2.08,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 1.9,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Saket",
+    "actualQuantity": 2.31,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Palam",
+    "actualQuantity": 1.66,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Dwarka",
+    "actualQuantity": 0.72,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 0.78,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 0.98,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 0.86,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 0.95,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 0.79,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Saket",
+    "actualQuantity": 0.69,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Palam",
+    "actualQuantity": 0.7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Dwarka",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Najafgarh",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Janakpuri",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Nehru Place",
+    "actualQuantity": 4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Tagore Garden",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Saket",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Palam",
+    "actualQuantity": 4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Dwarka",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Najafgarh",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Janakpuri",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Nehru Place",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Tagore Garden",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Saket",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Palam",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Dwarka",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 9,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Saket",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Palam",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Dwarka",
+    "actualQuantity": 15.5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Najafgarh",
+    "actualQuantity": 20.3,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Janakpuri",
+    "actualQuantity": 16.2,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Nehru Place",
+    "actualQuantity": 22.1,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 18.0,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Tagore Garden",
+    "actualQuantity": 15.2,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Saket",
+    "actualQuantity": 15.5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-03",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Palam",
+    "actualQuantity": 17.3,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Dwarka",
+    "actualQuantity": 3.63,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 4.1,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 1.9,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 2.19,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 1.98,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 2.86,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Saket",
+    "actualQuantity": 2.75,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Palam",
+    "actualQuantity": 1.79,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Dwarka",
+    "actualQuantity": 0.66,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 0.8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 1.01,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 1.0,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 0.94,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 1.05,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Saket",
+    "actualQuantity": 1.02,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Palam",
+    "actualQuantity": 0.77,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Dwarka",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Najafgarh",
+    "actualQuantity": 9,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Janakpuri",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Nehru Place",
+    "actualQuantity": 4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Tagore Garden",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Saket",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Palam",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Dwarka",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Najafgarh",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Janakpuri",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Nehru Place",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Tagore Garden",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Saket",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Palam",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Dwarka",
+    "actualQuantity": 10,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 12,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 9,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Saket",
+    "actualQuantity": 10,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Palam",
+    "actualQuantity": 9,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Dwarka",
+    "actualQuantity": 16.0,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Najafgarh",
+    "actualQuantity": 17.6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Janakpuri",
+    "actualQuantity": 22.7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Nehru Place",
+    "actualQuantity": 14.5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 18.1,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Tagore Garden",
+    "actualQuantity": 21.8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Saket",
+    "actualQuantity": 21.4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-04",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Palam",
+    "actualQuantity": 14.6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Dwarka",
+    "actualQuantity": 2.66,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 2.71,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 2.89,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 2.1,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 2.69,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 2.87,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Saket",
+    "actualQuantity": 3.19,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Palam",
+    "actualQuantity": 2.12,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Dwarka",
+    "actualQuantity": 1.07,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 0.92,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 0.77,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 0.96,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 0.79,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 0.77,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Saket",
+    "actualQuantity": 0.65,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Palam",
+    "actualQuantity": 0.98,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Dwarka",
+    "actualQuantity": 10,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Najafgarh",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Janakpuri",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Nehru Place",
+    "actualQuantity": 4,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Tagore Garden",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Saket",
+    "actualQuantity": 10,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Palam",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Dwarka",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Najafgarh",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Janakpuri",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Nehru Place",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Tagore Garden",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Saket",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Palam",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Dwarka",
+    "actualQuantity": 13,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 13,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Saket",
+    "actualQuantity": 13,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Palam",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Dwarka",
+    "actualQuantity": 16.6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Najafgarh",
+    "actualQuantity": 22.0,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Janakpuri",
+    "actualQuantity": 17.1,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Nehru Place",
+    "actualQuantity": 15.3,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 15.0,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Tagore Garden",
+    "actualQuantity": 20.1,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Saket",
+    "actualQuantity": 17.9,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-05",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Palam",
+    "actualQuantity": 24.3,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Dwarka",
+    "actualQuantity": 4.18,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 4.36,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 2.14,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 1.92,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 1.93,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 2.42,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Saket",
+    "actualQuantity": 3.88,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-AL-CABLE-33KV",
+    "zone": "Palam",
+    "actualQuantity": 2.36,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Dwarka",
+    "actualQuantity": 0.76,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 0.84,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 0.93,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 0.96,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 0.99,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 1.03,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Saket",
+    "actualQuantity": 0.95,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-AL-CABLE-66KV",
+    "zone": "Palam",
+    "actualQuantity": 0.71,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Dwarka",
+    "actualQuantity": 9,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Najafgarh",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Janakpuri",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Nehru Place",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Tagore Garden",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Saket",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-DTR-1000KVA",
+    "zone": "Palam",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Dwarka",
+    "actualQuantity": 5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Najafgarh",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Janakpuri",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Nehru Place",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Tagore Garden",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Saket",
+    "actualQuantity": 7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-DTR-630KVA-DRY",
+    "zone": "Palam",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Dwarka",
+    "actualQuantity": 13,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Najafgarh",
+    "actualQuantity": 12,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Janakpuri",
+    "actualQuantity": 10,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Nehru Place",
+    "actualQuantity": 6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Tagore Garden",
+    "actualQuantity": 9,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Saket",
+    "actualQuantity": 13,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-RMU-11KV",
+    "zone": "Palam",
+    "actualQuantity": 9,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Dwarka",
+    "actualQuantity": 15.2,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Najafgarh",
+    "actualQuantity": 17.8,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Janakpuri",
+    "actualQuantity": 16.0,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Nehru Place",
+    "actualQuantity": 16.7,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Vasant Kunj",
+    "actualQuantity": 24.5,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Tagore Garden",
+    "actualQuantity": 20.6,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Saket",
+    "actualQuantity": 24.1,
+    "source": "synthetic historical consumption + project uplift"
+  },
+  {
+    "month": "2026-06",
+    "materialId": "MAT-STEEL-GI-STRUCT",
+    "zone": "Palam",
+    "actualQuantity": 18.5,
+    "source": "synthetic historical consumption + project uplift"
+  }
+]

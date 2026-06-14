@@ -1,0 +1,67 @@
+[
+  {
+    "projectId": "CAPEX-FDR-DWK-2026",
+    "name": "Dwarka 33kV feeder reinforcement",
+    "zone": "Dwarka",
+    "startMonth": "2026-07",
+    "materials": {
+      "MAT-AL-CABLE-33KV": 8.4,
+      "MAT-DTR-1000KVA": 12,
+      "MAT-RMU-11KV": 9,
+      "MAT-STEEL-GI-STRUCT": 24
+    },
+    "urgency": "High",
+    "driver": "summer load and N-1 reliability"
+  },
+  {
+    "projectId": "CAPEX-NJG-UG-2026",
+    "name": "Najafgarh underground cable conversion",
+    "zone": "Najafgarh",
+    "startMonth": "2026-07",
+    "materials": {
+      "MAT-AL-CABLE-33KV": 11.2,
+      "MAT-AL-CABLE-66KV": 2.5,
+      "MAT-STEEL-GI-STRUCT": 18
+    },
+    "urgency": "Very High",
+    "driver": "road-cut window and outage minimization"
+  },
+  {
+    "projectId": "CAPEX-SKT-DTR-2026",
+    "name": "Saket transformer augmentation",
+    "zone": "Saket",
+    "startMonth": "2026-08",
+    "materials": {
+      "MAT-DTR-1000KVA": 18,
+      "MAT-DTR-630KVA-DRY": 8,
+      "MAT-RMU-11KV": 7
+    },
+    "urgency": "High",
+    "driver": "load growth and reliability"
+  },
+  {
+    "projectId": "RMU-NP-SCADA-2026",
+    "name": "Nehru Place RMU SCADA readiness",
+    "zone": "Nehru Place",
+    "startMonth": "2026-08",
+    "materials": {
+      "MAT-RMU-11KV": 15,
+      "MAT-STEEL-GI-STRUCT": 10
+    },
+    "urgency": "Medium",
+    "driver": "automation and remote switching"
+  },
+  {
+    "projectId": "MAINT-PALAM-2026",
+    "name": "Palam preventive maintenance buffer",
+    "zone": "Palam",
+    "startMonth": "2026-09",
+    "materials": {
+      "MAT-DTR-630KVA-DRY": 6,
+      "MAT-AL-CABLE-33KV": 3.2,
+      "MAT-STEEL-GI-STRUCT": 12
+    },
+    "urgency": "Medium",
+    "driver": "maintenance stock and outage response"
+  }
+]

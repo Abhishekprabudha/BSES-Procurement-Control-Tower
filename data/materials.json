@@ -1,0 +1,111 @@
+[
+  {
+    "id": "MAT-AL-CABLE-33KV",
+    "name": "33kV Aluminium Conductor XLPE Power Cable",
+    "family": "Power Cable",
+    "voltageClass": "33kV",
+    "uom": "km",
+    "hsn": "854460",
+    "criticality": "High",
+    "leadTimeDays": 75,
+    "preferredContract": "Indexed Rate Contract",
+    "technicalSpec": "Single core / three core aluminium conductor, XLPE insulated, armoured, suitable for underground distribution network feeder upgrades.",
+    "bom": [
+      {"commodity": "Aluminium", "kgPerUnit": 1320, "wastage": 0.025, "role": "conductor"},
+      {"commodity": "Steel", "kgPerUnit": 420, "wastage": 0.018, "role": "armour"},
+      {"commodity": "Polymer", "kgPerUnit": 520, "wastage": 0.02, "role": "insulation / sheath"}
+    ],
+    "costAdders": {"conversionPct": 0.135, "testingPct": 0.022, "freightPct": 0.038, "overheadsPct": 0.048, "vendorMarginPct": 0.07}
+  },
+  {
+    "id": "MAT-AL-CABLE-66KV",
+    "name": "66kV Aluminium Conductor XLPE Power Cable",
+    "family": "Power Cable",
+    "voltageClass": "66kV",
+    "uom": "km",
+    "hsn": "854460",
+    "criticality": "Very High",
+    "leadTimeDays": 105,
+    "preferredContract": "Indexed Rate Contract",
+    "technicalSpec": "High-voltage aluminium conductor XLPE insulated armoured cable for sub-transmission and grid augmentation.",
+    "bom": [
+      {"commodity": "Aluminium", "kgPerUnit": 2050, "wastage": 0.025, "role": "conductor"},
+      {"commodity": "Steel", "kgPerUnit": 720, "wastage": 0.018, "role": "armour"},
+      {"commodity": "Polymer", "kgPerUnit": 810, "wastage": 0.02, "role": "insulation / sheath"}
+    ],
+    "costAdders": {"conversionPct": 0.155, "testingPct": 0.032, "freightPct": 0.042, "overheadsPct": 0.052, "vendorMarginPct": 0.075}
+  },
+  {
+    "id": "MAT-DTR-1000KVA",
+    "name": "1000 kVA Distribution Transformer",
+    "family": "Transformer",
+    "voltageClass": "11/0.433kV",
+    "uom": "each",
+    "hsn": "850422",
+    "criticality": "Very High",
+    "leadTimeDays": 90,
+    "preferredContract": "Framework Agreement",
+    "technicalSpec": "Oil-filled copper/aluminium wound transformer with loss guarantee, routine testing, warranty, accessories and commissioning support.",
+    "bom": [
+      {"commodity": "Copper", "kgPerUnit": 720, "wastage": 0.018, "role": "winding"},
+      {"commodity": "CRGO Steel", "kgPerUnit": 1550, "wastage": 0.02, "role": "core"},
+      {"commodity": "Steel", "kgPerUnit": 1180, "wastage": 0.018, "role": "tank / structure"},
+      {"commodity": "Transformer Oil", "kgPerUnit": 850, "wastage": 0.005, "role": "oil"}
+    ],
+    "costAdders": {"conversionPct": 0.18, "testingPct": 0.045, "freightPct": 0.035, "overheadsPct": 0.055, "vendorMarginPct": 0.085}
+  },
+  {
+    "id": "MAT-DTR-630KVA-DRY",
+    "name": "630 kVA Dry Type Distribution Transformer",
+    "family": "Transformer",
+    "voltageClass": "11/0.433kV",
+    "uom": "each",
+    "hsn": "850422",
+    "criticality": "High",
+    "leadTimeDays": 80,
+    "preferredContract": "Rate Contract",
+    "technicalSpec": "Dry type distribution transformer for indoor/critical installation with copper winding and test certificate.",
+    "bom": [
+      {"commodity": "Copper", "kgPerUnit": 520, "wastage": 0.018, "role": "winding"},
+      {"commodity": "CRGO Steel", "kgPerUnit": 980, "wastage": 0.02, "role": "core"},
+      {"commodity": "Steel", "kgPerUnit": 640, "wastage": 0.018, "role": "enclosure"},
+      {"commodity": "Polymer", "kgPerUnit": 230, "wastage": 0.015, "role": "resin / insulation"}
+    ],
+    "costAdders": {"conversionPct": 0.205, "testingPct": 0.052, "freightPct": 0.03, "overheadsPct": 0.06, "vendorMarginPct": 0.09}
+  },
+  {
+    "id": "MAT-RMU-11KV",
+    "name": "11kV Ring Main Unit",
+    "family": "Switchgear",
+    "voltageClass": "11kV",
+    "uom": "each",
+    "hsn": "853720",
+    "criticality": "High",
+    "leadTimeDays": 65,
+    "preferredContract": "Rate Contract",
+    "technicalSpec": "Outdoor/indoor RMU suitable for distribution automation, protection, metering and SCADA readiness.",
+    "bom": [
+      {"commodity": "Copper", "kgPerUnit": 95, "wastage": 0.018, "role": "busbar / contacts"},
+      {"commodity": "Steel", "kgPerUnit": 610, "wastage": 0.018, "role": "panel enclosure"},
+      {"commodity": "Polymer", "kgPerUnit": 80, "wastage": 0.012, "role": "insulators / gaskets"}
+    ],
+    "costAdders": {"conversionPct": 0.29, "testingPct": 0.065, "freightPct": 0.04, "overheadsPct": 0.072, "vendorMarginPct": 0.1}
+  },
+  {
+    "id": "MAT-STEEL-GI-STRUCT",
+    "name": "Galvanized Steel Structures and Cable Trays",
+    "family": "Steel Hardware",
+    "voltageClass": "All",
+    "uom": "MT",
+    "hsn": "730890",
+    "criticality": "Medium",
+    "leadTimeDays": 35,
+    "preferredContract": "Fixed + Escalation Band",
+    "technicalSpec": "Hot-dip galvanized steel support structures, cable trays and clamps for distribution network projects.",
+    "bom": [
+      {"commodity": "Steel", "kgPerUnit": 1000, "wastage": 0.035, "role": "base steel"},
+      {"commodity": "Zinc", "kgPerUnit": 62, "wastage": 0.025, "role": "galvanization"}
+    ],
+    "costAdders": {"conversionPct": 0.105, "testingPct": 0.01, "freightPct": 0.05, "overheadsPct": 0.035, "vendorMarginPct": 0.065}
+  }
+]

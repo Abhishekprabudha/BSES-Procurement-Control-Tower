@@ -1,0 +1,6 @@
+[
+  {"id":"PO-260451","contractId":"CON-AL-CABLE-2026-01","vendorId":"VEN-ALPHA-CABLES","materialId":"MAT-AL-CABLE-33KV","zone":"Dwarka","quantity":10,"unitPrice":882400,"poDate":"2026-05-15","deliveryDate":"2026-07-30","taxRatePct":18,"grnQuantity":9.6,"inspectionStatus":"Accepted with minor quantity shortage"},
+  {"id":"PO-260466","contractId":"CON-DTR-2026-02","vendorId":"VEN-TRIDENT-TRANSFORMERS","materialId":"MAT-DTR-1000KVA","zone":"Saket","quantity":10,"unitPrice":1512500,"poDate":"2026-05-22","deliveryDate":"2026-08-15","taxRatePct":18,"grnQuantity":10,"inspectionStatus":"Accepted"},
+  {"id":"PO-260472","contractId":"CON-RMU-2026-03","vendorId":"VEN-SHIELD-SWITCHGEAR","materialId":"MAT-RMU-11KV","zone":"Nehru Place","quantity":12,"unitPrice":745000,"poDate":"2026-05-30","deliveryDate":"2026-08-05","taxRatePct":18,"grnQuantity":12,"inspectionStatus":"Accepted"},
+  {"id":"PO-260490","contractId":"CON-GI-2026-04","vendorId":"VEN-DELTA-GALVANIZERS","materialId":"MAT-STEEL-GI-STRUCT","zone":"Najafgarh","quantity":18,"unitPrice":130800,"poDate":"2026-06-03","deliveryDate":"2026-07-20","taxRatePct":18,"grnQuantity":18,"inspectionStatus":"Accepted"}
+]
