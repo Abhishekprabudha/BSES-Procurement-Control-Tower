@@ -1,0 +1,215 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>BSES Metals Procurement Intelligence</title>
+  <link rel="stylesheet" href="assets/styles.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+</head>
+<body>
+  <div class="shell">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="brand-mark">AI</div>
+        <div>
+          <h1>BSES Procurement Intelligence</h1>
+          <p>Static GitHub Pages demo</p>
+        </div>
+      </div>
+      <nav class="nav" id="navTabs">
+        <button class="active" data-view="dashboard">Control Tower</button>
+        <button data-view="market">Market Intelligence</button>
+        <button data-view="demand">Demand Forecast</button>
+        <button data-view="shouldcost">Should-Cost</button>
+        <button data-view="vendors">Vendor Discovery</button>
+        <button data-view="contracts">Contract Builder</button>
+        <button data-view="invoices">Invoice Validator</button>
+        <button data-view="osint">Open Source Search</button>
+        <button data-view="data">JSON Data Room</button>
+      </nav>
+      <div class="side-note">
+        <strong>No backend.</strong>
+        <span>Data is loaded from static JSON and user captures are stored in browser localStorage.</span>
+      </div>
+    </aside>
+
+    <main class="content">
+      <header class="hero">
+        <div>
+          <p class="eyebrow">Power distribution procurement AI demo</p>
+          <h2>Forecast demand, predict metals, discover vendors, generate contracts and validate invoices.</h2>
+          <p class="hero-copy">A client-ready static application for BSES-style procurement across aluminium cables, transformers, RMUs and galvanized steel structures.</p>
+        </div>
+        <div class="hero-card">
+          <span>Demo scenario</span>
+          <strong>33kV aluminium conductor cable + transformer procurement</strong>
+          <small>Demand → price forecast → should-cost → vendor shortlist → indexed contract → invoice hold/release.</small>
+        </div>
+      </header>
+
+      <section id="loading" class="panel"><div class="loader"></div> Loading static JSON intelligence layer...</section>
+      <section id="errorBox" class="panel error hidden"></section>
+
+      <section id="view-dashboard" class="view active">
+        <div class="kpi-grid" id="kpiGrid"></div>
+        <div class="grid two">
+          <div class="panel">
+            <div class="panel-head"><div><p class="eyebrow">Executive action</p><h3>AI Recommendations</h3></div></div>
+            <div id="recommendationList" class="recommendations"></div>
+          </div>
+          <div class="panel">
+            <div class="panel-head"><div><p class="eyebrow">Spend at risk</p><h3>Invoice Exceptions</h3></div></div>
+            <canvas id="riskChart" height="180"></canvas>
+          </div>
+        </div>
+        <div class="grid two">
+          <div class="panel">
+            <div class="panel-head"><div><p class="eyebrow">Commodity impact</p><h3>Metals Exposure</h3></div></div>
+            <canvas id="exposureChart" height="180"></canvas>
+          </div>
+          <div class="panel">
+            <div class="panel-head"><div><p class="eyebrow">Evidence base</p><h3>Open Source Signals</h3></div></div>
+            <div id="evidencePreview" class="evidence-list"></div>
+          </div>
+        </div>
+      </section>
+
+      <section id="view-market" class="view">
+        <div class="panel">
+          <div class="panel-head">
+            <div><p class="eyebrow">Market intelligence</p><h3>Metal price forecasts</h3></div>
+            <select id="commoditySelect"></select>
+          </div>
+          <canvas id="marketChart" height="110"></canvas>
+          <div id="commodityCards" class="card-grid"></div>
+        </div>
+      </section>
+
+      <section id="view-demand" class="view">
+        <div class="panel">
+          <div class="panel-head">
+            <div><p class="eyebrow">Demand planning</p><h3>Material demand forecast by zone</h3></div>
+            <div class="controls">
+              <select id="demandMaterial"></select>
+              <select id="demandZone"></select>
+            </div>
+          </div>
+          <canvas id="demandChart" height="110"></canvas>
+          <div id="demandNarrative" class="callout"></div>
+          <div class="table-wrap"><table id="demandTable"></table></div>
+        </div>
+      </section>
+
+      <section id="view-shouldcost" class="view">
+        <div class="grid split">
+          <div class="panel">
+            <div class="panel-head"><div><p class="eyebrow">Cost intelligence</p><h3>Should-cost calculator</h3></div></div>
+            <label>Material<select id="costMaterial"></select></label>
+            <label>Quantity<input id="costQuantity" type="number" min="1" step="0.1" value="10" /></label>
+            <button class="primary" id="runShouldCost">Calculate should-cost</button>
+            <div id="shouldCostSummary" class="result-box"></div>
+          </div>
+          <div class="panel">
+            <div class="panel-head"><div><p class="eyebrow">BOM waterfall</p><h3>Cost breakdown</h3></div></div>
+            <canvas id="costChart" height="220"></canvas>
+          </div>
+        </div>
+      </section>
+
+      <section id="view-vendors" class="view">
+        <div class="panel">
+          <div class="panel-head">
+            <div><p class="eyebrow">Vendor intelligence</p><h3>Discover and rank vendors</h3></div>
+            <div class="controls">
+              <input id="vendorSearch" placeholder="Search vendor, city, certification..." />
+              <select id="vendorMaterial"></select>
+            </div>
+          </div>
+          <div id="vendorCards" class="vendor-grid"></div>
+        </div>
+      </section>
+
+      <section id="view-contracts" class="view">
+        <div class="grid split">
+          <div class="panel">
+            <div class="panel-head"><div><p class="eyebrow">Contract intelligence</p><h3>Indexed clause builder</h3></div></div>
+            <label>Material<select id="contractMaterial"></select></label>
+            <label>Preferred vendor<select id="contractVendor"></select></label>
+            <button class="primary" id="generateContract">Generate smart contract recommendation</button>
+          </div>
+          <div class="panel">
+            <div class="panel-head"><div><p class="eyebrow">Generated output</p><h3>Commercial clause pack</h3></div></div>
+            <div id="contractOutput" class="contract-output"></div>
+          </div>
+        </div>
+      </section>
+
+      <section id="view-invoices" class="view">
+        <div class="grid split">
+          <div class="panel">
+            <div class="panel-head"><div><p class="eyebrow">Invoice audit</p><h3>Validate vendor invoice</h3></div></div>
+            <label>Invoice<select id="invoiceSelect"></select></label>
+            <button class="primary" id="validateInvoice">Validate invoice</button>
+            <button id="validateAllInvoices">Validate all and export JSON</button>
+          </div>
+          <div class="panel">
+            <div class="panel-head"><div><p class="eyebrow">Exception decision</p><h3>Validation report</h3></div></div>
+            <div id="invoiceReport" class="result-box"></div>
+          </div>
+        </div>
+      </section>
+
+      <section id="view-osint" class="view">
+        <div class="grid two">
+          <div class="panel">
+            <div class="panel-head"><div><p class="eyebrow">Open source search</p><h3>Browser-safe OSINT workspace</h3></div></div>
+            <p class="muted">A pure static site cannot scrape most public websites directly. Use this workspace to generate targeted source searches, capture evidence, store it as JSON, and export it for reuse.</p>
+            <div class="searchbar"><input id="osintQuery" value="33kV aluminium conductor cable BSES" /><button class="primary" id="runOsint">Search sources</button></div>
+            <div id="sourceLinks" class="source-links"></div>
+            <div id="osintResults" class="evidence-list"></div>
+          </div>
+          <div class="panel">
+            <div class="panel-head"><div><p class="eyebrow">JSON capture</p><h3>Save discovered evidence</h3></div></div>
+            <label>Title<input id="captureTitle" placeholder="Example: BSES tender for 31.5 MVA transformer" /></label>
+            <label>URL<input id="captureUrl" placeholder="https://..." /></label>
+            <label>Tags<input id="captureTags" placeholder="BSES, transformer, vendor" /></label>
+            <label>Summary<textarea id="captureSummary" rows="5" placeholder="Short evidence summary..."></textarea></label>
+            <button class="primary" id="saveCapture">Save to local JSON store</button>
+            <button id="exportOsint">Export OSINT JSON</button>
+            <button id="clearOsint">Clear local captures</button>
+          </div>
+        </div>
+        <div class="panel">
+          <div class="panel-head"><div><p class="eyebrow">Stored intelligence</p><h3>Captured + seeded evidence</h3></div></div>
+          <div id="storedEvidence" class="table-wrap"></div>
+        </div>
+      </section>
+
+      <section id="view-data" class="view">
+        <div class="panel">
+          <div class="panel-head"><div><p class="eyebrow">Static JSON data room</p><h3>Export, inspect, or reset demo data</h3></div></div>
+          <div class="button-row" id="dataDownloads"></div>
+          <div class="grid two">
+            <div>
+              <h4>Data loaded in browser</h4>
+              <pre id="dataManifest"></pre>
+            </div>
+            <div>
+              <h4>Architecture notes</h4>
+              <ul class="bullets">
+                <li>All procurement data is mocked for demo use.</li>
+                <li>Open source sources are stored as static JSON and browser localStorage captures.</li>
+                <li>Forecasts and validations are calculated client-side in JavaScript.</li>
+                <li>Deployable directly to GitHub Pages without server or database.</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script type="module" src="src/app.js"></script>
+</body>
+</html>
