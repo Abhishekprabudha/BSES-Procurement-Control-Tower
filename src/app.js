@@ -12,7 +12,7 @@ const DATA_FILES = {
 };
 
 const state = { data: {}, charts: {}, activeView: 'dashboard' };
-const localEvidenceKey = 'bsesProcurementOsintCaptures';
+const localEvidenceKey = 'manufacturingProcurementOsintCaptures';
 
 const $ = (id) => document.getElementById(id);
 const byId = (arr, id) => arr.find((x) => x.id === id);
@@ -252,12 +252,10 @@ function populateControls() {
   setHtml('demandZone', optionList(zones, (z) => z, (z) => z));
   const commodities = [...new Set(state.data.marketPrices.map((x) => x.commodity))].sort();
   setHtml('commoditySelect', optionList(commodities, (c) => c, (c) => c));
-  $('commoditySelect').value = 'Aluminium';
-  $('demandZone').value = 'Dwarka';
-  $('demandMaterial').value = 'MAT-AL-CABLE-33KV';
-  $('costMaterial').value = 'MAT-AL-CABLE-33KV';
-  $('vendorMaterial').value = 'MAT-AL-CABLE-33KV';
-  $('contractMaterial').value = 'MAT-AL-CABLE-33KV';
+  $('commoditySelect').value = commodities.includes('Steel') ? 'Steel' : commodities[0];
+  $('demandZone').value = zones[0];
+  const defaultMaterial = materials[0]?.id;
+  ['demandMaterial', 'costMaterial', 'vendorMaterial', 'contractMaterial'].forEach((id) => { $(id).value = defaultMaterial; });
   populateContractVendors();
 }
 
@@ -301,20 +299,23 @@ function renderDashboard() {
   const validations = state.data.invoices.map(validateInvoiceModel);
   const hold = validations.filter((v) => v.status !== 'PASS');
   const overbilling = validations.reduce((sum, v) => sum + v.potentialOverbilling, 0);
-  const upcomingCable = forecastDemand('MAT-AL-CABLE-33KV', 'Dwarka').rows[0].p50 + forecastDemand('MAT-AL-CABLE-33KV', 'Najafgarh').rows[0].p50;
+  const focusMaterial = state.data.materials[0];
+  const sites = [...new Set(state.data.demandHistory.filter((x) => x.materialId === focusMaterial.id).map((x) => x.zone))];
+  const upcomingDemand = sites.reduce((sum, site) => sum + (forecastDemand(focusMaterial.id, site).rows[0]?.p50 || 0), 0);
   const discovered = state.data.vendors.filter((v) => /New/.test(v.status)).length;
-  const marketRisk = linearForecast(commoditySeries('Aluminium'), 3).changePct;
+  const focusCommodity = focusMaterial.bom[0].commodity;
+  const marketRisk = linearForecast(commoditySeries(focusCommodity), 3).changePct;
   setHtml('kpiGrid', `
     <div class="kpi-card"><span>Potential invoice hold</span><strong>${cr(overbilling)}</strong><small>From duplicate, GRN and index checks</small></div>
-    <div class="kpi-card"><span>Upcoming 33kV cable demand</span><strong>${upcomingCable.toFixed(1)} km</strong><small>Next forecast month, Dwarka + Najafgarh</small></div>
+    <div class="kpi-card"><span>Upcoming ${focusMaterial.family} demand</span><strong>${upcomingDemand.toFixed(1)} ${focusMaterial.uom}</strong><small>Next forecast month across all manufacturing sites</small></div>
     <div class="kpi-card"><span>New vendor opportunities</span><strong>${discovered}</strong><small>Mock OSINT and public tender discovery</small></div>
-    <div class="kpi-card"><span>Aluminium 90-day risk</span><strong>${pct(marketRisk)}</strong><small>Client-side linear forecast</small></div>
+    <div class="kpi-card"><span>${focusCommodity} 90-day risk</span><strong>${pct(marketRisk)}</strong><small>Client-side linear forecast</small></div>
   `);
   setHtml('recommendationList', `
-    <div class="rec"><strong>Lock 60% of aluminium cable demand now</strong><p>Aluminium trend is upward. Use an indexed contract for the balance so BSES avoids overpaying if the market softens.</p></div>
-    <div class="rec"><strong>Qualify Northstar Metals as a challenger vendor</strong><p>Strong price score and local proximity, but route through factory audit before approval.</p></div>
-    <div class="rec"><strong>Hold Alpha Cables invoice AIC/26/0621</strong><p>Invoice quantity exceeds GRN and escalation claimed is above the contract-linked metal index allowance.</p></div>
-    <div class="rec"><strong>Use transformer framework agreement</strong><p>For copper-heavy transformer procurement, lock conversion margin and index only copper/CRGO pass-through.</p></div>
+    <div class="rec"><strong>Lock 60% of forecast steel demand</strong><p>Use an indexed contract for the balance to protect production continuity while retaining downside price protection.</p></div>
+    <div class="rec"><strong>Qualify a regional challenger supplier</strong><p>Prioritize price, capacity and site proximity, then route the supplier through a quality-system and factory audit.</p></div>
+    <div class="rec"><strong>Hold invoices with three-way-match exceptions</strong><p>Release payment only after PO, receipt, price-index and tax-document discrepancies are resolved.</p></div>
+    <div class="rec"><strong>Segment contracts by commodity exposure</strong><p>Lock conversion and supplier margin while indexing only the auditable raw-material portion of each BOM.</p></div>
   `);
   drawChart('riskChart', {
     type: 'bar',
@@ -441,7 +442,7 @@ function renderContracts() {
     <p><strong>Material:</strong> ${material.name}</p>
     <p><strong>Vendor:</strong> ${vendor.name} · score ${vendorScore(vendor, materialId)}</p>
     <p><strong>Recommended base index:</strong> ${primaryCommodity} at ${money(basePrice)}/kg, with World Bank/LME/MCX evidence attached where available.</p>
-    <p><strong>Commercial recommendation:</strong> Lock conversion, testing, freight and vendor margin. Pass through ${primaryCommodity} movement only beyond ±2% from base date. Cap upward movement at ${cap}% and allow downward reset to protect BSES.</p>
+    <p><strong>Commercial recommendation:</strong> Lock conversion, testing, freight and vendor margin. Pass through ${primaryCommodity} movement only beyond ±2% from base date. Cap upward movement at ${cap}% and include a symmetrical downward reset to protect the buyer.</p>
     <p><strong>Invoice validation rule:</strong> invoice escalation must be mathematically recomputed from the agreed index before payment release.</p>
     <pre>Clause draft\nBase ${primaryCommodity} Index = ${money(basePrice)}/kg.\nPayable Unit Price = Base Unit Price + BOM Metal Weight × (Current ${primaryCommodity} Index - Base ${primaryCommodity} Index) × Wastage Factor.\nEscalation band: ±2%. Upward cap: ${cap}%. Downward reset: -4%.\nDelay LD: 0.5% per week capped at 5%.\nQuality hold: payment released only after GRN + inspection + GST IRN/QR validation.</pre>
     <p><strong>Should-cost anchor:</strong> ${money(should.unit)} per ${material.uom} for demo quantity baseline.</p>
@@ -514,7 +515,7 @@ function renderDataRoom() {
     const btn = event.target.closest('button[data-download]');
     if (!btn) return;
     const key = btn.dataset.download;
-    if (key === 'all') downloadJson('bses-procurement-intelligence-data.json', { ...state.data, osintCaptures: getOsintCaptures() });
+    if (key === 'all') downloadJson('manufacturing-procurement-intelligence-data.json', { ...state.data, osintCaptures: getOsintCaptures() });
     else downloadJson(`${key}.json`, state.data[key]);
   };
   setHtml('dataManifest', JSON.stringify({ files: DATA_FILES, recordCounts: Object.fromEntries(Object.entries(state.data).map(([k, v]) => [k, Array.isArray(v) ? v.length : Object.keys(v).length])), localOsintCaptures: getOsintCaptures().length }, null, 2));
