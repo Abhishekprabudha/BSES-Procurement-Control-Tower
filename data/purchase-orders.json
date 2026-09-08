@@ -1,6 +1,80 @@
 [
-  {"id":"PO-260451","contractId":"CON-AL-CABLE-2026-01","vendorId":"VEN-ALPHA-CABLES","materialId":"MAT-AL-CABLE-33KV","zone":"Dwarka","quantity":10,"unitPrice":882400,"poDate":"2026-05-15","deliveryDate":"2026-07-30","taxRatePct":18,"grnQuantity":9.6,"inspectionStatus":"Accepted with minor quantity shortage"},
-  {"id":"PO-260466","contractId":"CON-DTR-2026-02","vendorId":"VEN-TRIDENT-TRANSFORMERS","materialId":"MAT-DTR-1000KVA","zone":"Saket","quantity":10,"unitPrice":1512500,"poDate":"2026-05-22","deliveryDate":"2026-08-15","taxRatePct":18,"grnQuantity":10,"inspectionStatus":"Accepted"},
-  {"id":"PO-260472","contractId":"CON-RMU-2026-03","vendorId":"VEN-SHIELD-SWITCHGEAR","materialId":"MAT-RMU-11KV","zone":"Nehru Place","quantity":12,"unitPrice":745000,"poDate":"2026-05-30","deliveryDate":"2026-08-05","taxRatePct":18,"grnQuantity":12,"inspectionStatus":"Accepted"},
-  {"id":"PO-260490","contractId":"CON-GI-2026-04","vendorId":"VEN-DELTA-GALVANIZERS","materialId":"MAT-STEEL-GI-STRUCT","zone":"Najafgarh","quantity":18,"unitPrice":130800,"poDate":"2026-06-03","deliveryDate":"2026-07-20","taxRatePct":18,"grnQuantity":18,"inspectionStatus":"Accepted"}
+  {
+    "id": "PO-MFG-26-001",
+    "contractId": "CON-MFG-2026-01",
+    "vendorId": "VEN-STEELWORKS",
+    "materialId": "MAT-CR-STEEL",
+    "orderDate": "2026-06-01",
+    "quantity": 120,
+    "grnQuantity": 110,
+    "unitPrice": 91500,
+    "uom": "MT",
+    "status": "Open",
+    "taxRatePct": 18
+  },
+  {
+    "id": "PO-MFG-26-002",
+    "contractId": "CON-MFG-2026-02",
+    "vendorId": "VEN-PRECISION",
+    "materialId": "MAT-BEARING",
+    "orderDate": "2026-06-01",
+    "quantity": 3000,
+    "grnQuantity": 3000,
+    "unitPrice": 890,
+    "uom": "each",
+    "status": "Open",
+    "taxRatePct": 18
+  },
+  {
+    "id": "PO-MFG-26-003",
+    "contractId": "CON-MFG-2026-03",
+    "vendorId": "VEN-CASTTECH",
+    "materialId": "MAT-AL-CASTING",
+    "orderDate": "2026-06-01",
+    "quantity": 900,
+    "grnQuantity": 900,
+    "unitPrice": 4250,
+    "uom": "each",
+    "status": "Open",
+    "taxRatePct": 18
+  },
+  {
+    "id": "PO-MFG-26-004",
+    "contractId": "CON-MFG-2026-04",
+    "vendorId": "VEN-CONDUCTOR",
+    "materialId": "MAT-COPPER-WIRE",
+    "orderDate": "2026-06-01",
+    "quantity": 15,
+    "grnQuantity": 15,
+    "unitPrice": 1120,
+    "uom": "kg",
+    "status": "Open",
+    "taxRatePct": 18
+  },
+  {
+    "id": "PO-MFG-26-005",
+    "contractId": "CON-MFG-2026-05",
+    "vendorId": "VEN-POLYMER",
+    "materialId": "MAT-ABS-RESIN",
+    "orderDate": "2026-06-01",
+    "quantity": 42,
+    "grnQuantity": 42,
+    "unitPrice": 166000,
+    "uom": "MT",
+    "status": "Open",
+    "taxRatePct": 18
+  },
+  {
+    "id": "PO-MFG-26-006",
+    "contractId": "CON-MFG-2026-06",
+    "vendorId": "VEN-PACKRIGHT",
+    "materialId": "MAT-CORRUGATED",
+    "orderDate": "2026-06-01",
+    "quantity": 60,
+    "grnQuantity": 60,
+    "unitPrice": 52000,
+    "uom": "1000 each",
+    "status": "Open",
+    "taxRatePct": 18
+  }
 ]

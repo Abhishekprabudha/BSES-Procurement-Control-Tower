@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>BSES Metals Procurement Intelligence</title>
+  <title>Manufacturing Procurement Intelligence</title>
   <link rel="stylesheet" href="assets/styles.css" />
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
 </head>
@@ -13,7 +13,7 @@
       <div class="brand">
         <div class="brand-mark">AI</div>
         <div>
-          <h1>BSES Procurement Intelligence</h1>
+          <h1>Manufacturing Procurement Intelligence</h1>
           <p>Static GitHub Pages demo</p>
         </div>
       </div>
@@ -37,13 +37,13 @@
     <main class="content">
       <header class="hero">
         <div>
-          <p class="eyebrow">Power distribution procurement AI demo</p>
+          <p class="eyebrow">Cross-industry manufacturing procurement AI</p>
           <h2>Forecast demand, predict metals, discover vendors, generate contracts and validate invoices.</h2>
-          <p class="hero-copy">A client-ready static application for BSES-style procurement across aluminium cables, transformers, RMUs and galvanized steel structures.</p>
+          <p class="hero-copy">A configurable control tower for direct materials, components and MRO procurement across automotive, industrial equipment, electronics, consumer goods and other manufacturing sectors.</p>
         </div>
         <div class="hero-card">
           <span>Demo scenario</span>
-          <strong>33kV aluminium conductor cable + transformer procurement</strong>
+          <strong>Cold-rolled steel + precision bearing procurement</strong>
           <small>Demand → price forecast → should-cost → vendor shortlist → indexed contract → invoice hold/release.</small>
         </div>
       </header>
@@ -165,15 +165,15 @@
           <div class="panel">
             <div class="panel-head"><div><p class="eyebrow">Open source search</p><h3>Browser-safe OSINT workspace</h3></div></div>
             <p class="muted">A pure static site cannot scrape most public websites directly. Use this workspace to generate targeted source searches, capture evidence, store it as JSON, and export it for reuse.</p>
-            <div class="searchbar"><input id="osintQuery" value="33kV aluminium conductor cable BSES" /><button class="primary" id="runOsint">Search sources</button></div>
+            <div class="searchbar"><input id="osintQuery" value="manufacturing steel bearing supplier tender India" /><button class="primary" id="runOsint">Search sources</button></div>
             <div id="sourceLinks" class="source-links"></div>
             <div id="osintResults" class="evidence-list"></div>
           </div>
           <div class="panel">
             <div class="panel-head"><div><p class="eyebrow">JSON capture</p><h3>Save discovered evidence</h3></div></div>
-            <label>Title<input id="captureTitle" placeholder="Example: BSES tender for 31.5 MVA transformer" /></label>
+            <label>Title<input id="captureTitle" placeholder="Example: Precision bearing supplier qualification notice" /></label>
             <label>URL<input id="captureUrl" placeholder="https://..." /></label>
-            <label>Tags<input id="captureTags" placeholder="BSES, transformer, vendor" /></label>
+            <label>Tags<input id="captureTags" placeholder="bearings, automotive, vendor" /></label>
             <label>Summary<textarea id="captureSummary" rows="5" placeholder="Short evidence summary..."></textarea></label>
             <button class="primary" id="saveCapture">Save to local JSON store</button>
             <button id="exportOsint">Export OSINT JSON</button>
