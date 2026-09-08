@@ -70,18 +70,6 @@ textarea {
   color: var(--text);
   border-color: var(--line);
 }
-.side-note {
-  margin-top: 26px;
-  border: 1px solid var(--line);
-  padding: 14px;
-  border-radius: 16px;
-  color: var(--muted);
-  background: rgba(255,255,255,0.06);
-  display: grid;
-  gap: 6px;
-  font-size: 13px;
-}
-.side-note strong { color: var(--accent); }
 .content { padding: 30px; max-width: 1480px; width: 100%; }
 .hero {
   display: grid;
